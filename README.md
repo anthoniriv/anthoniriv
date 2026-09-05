@@ -1,6 +1,6 @@
 # Hola, soy Ender.
 
-🌐 [onilabs-web.vercel.app](https://onilabs-web.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/anthoniriv01/) · [X @enderdev01](https://x.com/enderdev01) · anthoniriv01@gmail.com
+🌐 [onilabs.site](https://onilabs.site/) · [LinkedIn](https://www.linkedin.com/in/anthoniriv01/) · [X @enderdev01](https://x.com/enderdev01) · anthoniriv01@gmail.com
 
 Fullstack developer desde Perú 🇵🇪. Construyo productos web completos — de la idea al deploy.
 
